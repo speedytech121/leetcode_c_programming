@@ -1,0 +1,6 @@
+pwd & cd /e:/leetcode_c_programming & git init
+git add .
+git status
+git commit -m "commited"
+git remote add origin https://github.com/speedytech121/leetcode_c_programming.git #remote origin already exist if you have done once
+git push -u origin master
